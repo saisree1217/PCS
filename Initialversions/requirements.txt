@@ -1,1 +1,1 @@
-..
+Install the required modules using the following commands: • py -m pip install pycryptodome (or) pip install pycryptodome • py -m pip install sockets (or) pip install sockets Step by step implementation of the project: Activating the communication server node: We run the python command mentioned below $ py CommunicationServer_V1.0.py Note: replace py with python or python3 based on your machine The node prints the name of machine and that it is ready to listen
